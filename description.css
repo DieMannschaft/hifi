@@ -1,0 +1,19 @@
+.descriptionbox__text {
+    /* color: green; */
+    margin: 0;
+    color: #a59169;
+}
+.decriptionbox__table {
+    border: 2px solid grey;
+    width: 25vw;
+    height: 50vh;
+    font-size: 1em;
+
+}
+
+.descriptionbox__tableheader {
+    text-align: left;
+}
+.description__tabledata {
+    text-align: right;
+}
