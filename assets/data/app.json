@@ -1,5 +1,5 @@
 {
-    "cdAfspillere": [
+    "products": [
         {
             "category": "cdAfspillere",
             "name": "Creek classic CD",
@@ -137,9 +137,7 @@
                     "twelve": "7"
                 }
             ]
-        }
-    ],
-    "dvdAfspillere": [
+        },
         {
             "category": "dvdAfspillere",
             "name": "Creek classic",
@@ -274,9 +272,7 @@
                     "twelve": "i"
                 }
             ]
-        }
-    ],
-    "effektforstaerkere": [
+        },
         {
             "category": "effektforstaerkere",
             "name": "Manley Mahi",
@@ -414,9 +410,7 @@
                     "twelve": "7"
                 }
             ]
-        }
-    ],
-    "forforstaerkere": [
+        },
         {
             "category": "forforstaerkere",
             "name": "Creek OBH 22 Passive Preamp",
@@ -554,9 +548,7 @@
                     "twelve": "7"
                 }
             ]
-        }
-    ],
-    "hojtalere": [
+        },
         {
             "category": "hojtalere",
             "name": "Boesendorfer VCSv Wall",
@@ -727,9 +719,7 @@
                     "twelve": "7"
                 }
             ]
-        }
-    ],
-    "intForstaerkere": [
+        },
         {
             "category": "intForstaerkere",
             "name": "Creek A50I",
@@ -900,9 +890,7 @@
                     "twelve": "78y8"
                 }
             ]
-        }
-    ],
-    "pladespillere": [
+        },
         {
             "category": "pladespillere",
             "name": "Project Debut 3 BL",
@@ -1069,9 +1057,7 @@
                     "twelve": "78y8"
                 }
             ]
-        }
-    ],
-    "roerForstaerkere": [
+        },
         {
             "category": "roerForstaerkere",
             "name": "Jolida JD102B",
