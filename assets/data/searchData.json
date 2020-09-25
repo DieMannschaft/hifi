@@ -1,0 +1,240 @@
+[{
+    "category": "cdAfspillere",
+    "name": "Creek classic CD",
+    "manufacturer": "Creek",
+    "price": "£100"
+
+  },
+  {
+    "category": "cdAfspillere",
+    "name": "Creek Destiny CD",
+    "manufacturer": "Creek",
+    "price": "£789"
+
+  },
+  {
+    "category": "cdAfspillere",
+    "name": "Creek EVO CD",
+    "manufacturer": "Creek",
+    "price": "£20000"
+
+  },
+  {
+    "category": "cdAfspillere",
+    "name": "EXP 2010S CD",
+    "manufacturer": "EXP",
+    "price": "£906"
+
+  },
+  {
+    "category": "dvdAfspillere",
+    "name": "Creek classic",
+    "manufacturer": "Creek",
+    "price": "£1000"
+
+  },
+  {
+    "category": "dvdAfspillere",
+    "name": "Exposure 2010S",
+    "manufacturer": "Exposure",
+    "price": "£10700"
+
+  },
+  {
+    "category": "dvdAfspillere",
+    "name": "Parasound D200",
+    "manufacturer": "Parasound",
+    "price": "£80"
+
+  },
+  {
+    "category": "effektforstaerkere",
+    "name": "Manley Mahi",
+    "manufacturer": "Manley",
+    "price": "£6090"
+
+  },
+  {
+    "category": "effektforstaerkere",
+    "name": "Manley Neoclassic300B",
+    "manufacturer": "Manley",
+    "price": "£7890"
+
+  },
+  {
+    "category": "effektforstaerkere",
+    "name": "Manley Snapper",
+    "manufacturer": "Manley",
+    "price": "£1700"
+  },
+  {
+    "category": "effektforstaerkere",
+    "name": "Parasound HaloA23",
+    "manufacturer": "Parasound",
+    "price": "£200"
+
+  },
+  {
+    "category": "forforstaerkere",
+    "name": "Creek OBH 22 Passive Preamp",
+    "manufacturer": "Creek",
+    "price": "£300"
+  },
+  {
+    "category": "forforstaerkere",
+    "name": "Parasound Classic 7100",
+    "manufacturer": "Parasound",
+    "price": "£7000"
+
+  },
+  {
+    "category": "forforstaerkere",
+    "name": "Parasound Halo P3",
+    "manufacturer": "Parasound",
+    "price": "£900000"
+
+  },
+  {
+    "category": "forforstaerkere",
+    "name": "Project Prebox",
+    "manufacturer": "Project",
+    "price": "£1400"
+
+  },
+  {
+    "category": "hojtalere",
+    "name": "Boesendorfer VCSv Wall",
+    "manufacturer": "Boesendorfer",
+    "price": "£6723"
+
+  },
+  {
+    "category": "hojtalere",
+    "name": "Epos M5",
+    "manufacturer": "Epos",
+    "price": "£700"
+  },
+  {
+    "category": "hojtalere",
+    "name": "Harbeth HL7ES2",
+    "manufacturer": "Harbeth",
+    "price": "£26900"
+  },
+  {
+    "category": "hojtalere",
+    "name": "Harbeth Monitor 30",
+    "manufacturer": "Harbeth",
+    "price": "£2000000"
+  },
+  {
+    "category": "hojtalere",
+    "name": "Harbeth P3ES2",
+    "manufacturer": "Harbeth",
+    "price": "£290"
+
+  },
+  {
+    "category": "intForstaerkere",
+    "name": "Creek A50I",
+    "manufacturer": "Creek",
+    "price": "£200"
+
+  },
+  {
+    "category": "intForstaerkere",
+    "name": "Creek Classic5350SE",
+    "manufacturer": "Creek",
+    "price": "£23800"
+
+  },
+  {
+    "category": "intForstaerkere",
+    "name": "Creek Destinyamp",
+    "manufacturer": "Creek",
+    "price": "£700"
+
+  },
+  {
+    "category": "intForstaerkere",
+    "name": "Manley Snapper",
+    "manufacturer": "Manley",
+    "price": "£1789"
+
+  },
+  {
+    "category": "intForstaerkere",
+    "name": "Manley Stingray",
+    "manufacturer": "Manley",
+    "price": "£3000"
+
+  },
+  {
+    "category": "pladespillere",
+    "name": "Project Debut 3 BL",
+    "manufacturer": "Project",
+    "price": "£200"
+
+  },
+  {
+    "category": "pladespillere",
+    "name": "Project Debut III Red 1",
+    "manufacturer": "Project",
+    "price": "£23800"
+
+  },
+  {
+    "category": "pladespillere",
+    "name": "Project Debut III Yellow 1",
+    "manufacturer": "Project",
+    "price": "£23800"
+
+  },
+  {
+    "category": "pladespillere",
+    "name": "Project RPM 5",
+    "manufacturer": "Project",
+    "price": "£78"
+
+  },
+  {
+    "category": "pladespillere",
+    "name": "Project RPM 10",
+    "manufacturer": "Project",
+    "price": "£78"
+
+  },
+  {
+    "category": "roerForstaerkere",
+    "name": "Jolida JD102B",
+    "manufacturer": "Jolida",
+    "price": "£2400"
+  },
+  {
+    "category": "roerForstaerkere",
+    "name": "Jolida JD202A",
+    "manufacturer": "Jolida",
+    "price": "£2400"
+
+  },
+  {
+    "category": "roerForstaerkere",
+    "name": "Jolida JD300B",
+    "manufacturer": "Jolida",
+    "price": "£2400"
+
+  },
+  {
+    "category": "roerForstaerkere",
+    "name": "Jolida JD302B",
+    "manufacturer": "Jolida",
+    "price": "£2400"
+
+  },
+  {
+    "category": "roerForstaerkere",
+    "name": "Jolida JD502B",
+    "manufacturer": "Jolida",
+    "price": "£2400"
+
+  }
+]
